@@ -1,2 +1,2 @@
 # CDAC_Final_Project
-Project details 
+Project details Loan Origination System
